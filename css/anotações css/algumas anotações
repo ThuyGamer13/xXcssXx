@@ -1,0 +1,22 @@
+/*
+color: cor do texto.
+font-size: tamanho da fonte
+font-family: tipo da fonte
+font-weight: altura da linha (espaço entre linhas).
+text-align: alinhamento do texto (left, center, right, justify).
+text-decoration: decoração do texto (underline, overline, line-through, none).
+background-color: cor de fundo.
+background-image: imagem de fundo.
+background-size: tamanho do fundo (cover, contain, auto ou valores em px/%).
+width: largura do elemento.
+height: altura do elemento.
+margin: espaçamento externo.
+padding: espaçamento interno.
+border: borda do elemento (largura, estilo, cor).
+border-radius: arredondamento dos cantos.
+box-shadow: sombra da caixa.
+cursor: estilo do cursor (pointer, default, text, etc.).
+opacity: transparência (0 = invisível, 1 = opaco).
+scale: redimensiona o elemento.
+user-select: define se o usuário pode selecionar o texto (none, auto, text).
+/*

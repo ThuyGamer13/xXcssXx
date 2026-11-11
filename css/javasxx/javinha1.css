@@ -1,0 +1,45 @@
+body{
+    background-color:#004EE4;
+    margin: 0;
+    font-family: 'delta';
+    text-align: center;
+}
+
+@font-face {
+    font-family: 'txt';
+    src: url(/css/fonts/DeterminationSansWebRegular-369X.ttf);
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'delta';
+    src: url(/css/fonts/deltarune.ttf);
+    font-weight: normal;
+    font-style: normal;
+}
+
+.tit{
+    color: white;
+    font-family: 'delta';
+    font-size: 150px;
+}
+
+.txt{
+    font-family: 'txt';
+    color: black;
+    font-size: 30px;
+
+}
+
+.minitit{
+    color: white;
+    font-family: 'txt';
+    font-size: 40px;
+}
+
+.minitxt{
+    color: white;
+    font-family: 'txt';
+    font-size: 30px; 
+}

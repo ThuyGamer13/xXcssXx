@@ -1,0 +1,127 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(17, 17, 17);
+}
+
+
+.back2{
+    
+    width: 950px;
+    height: 1000px;
+   background-color: rgb(96, 56, 41);
+    border: 25px, solid, rgb(133, 81, 64);
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.intro{
+    display: flex;
+    gap: 10px;
+    width: 950px;
+
+}
+
+.intro > div{
+    border: 3px solid reen;
+    padding: 10px;
+    flex-grow: 1;
+}
+
+@font-face {
+  font-family: 'isaque';
+  src: url('Upheaval TT BRK Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'isaac';
+  src: url('Upheaval\ TT\ BRK\ Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.isaac{
+    font-family: "isaac";
+    color: white;
+}
+.isaque{
+    font-family: "isaque";
+    color: rgb(248, 173,63 );
+}
+
+div > H2{
+    text-align:center;
+}
+
+.textolivre{
+    color: aliceblue;
+}
+.laraja{
+    color: orange;
+}
+.imagemdecrease{
+    height: auto;
+
+    
+}
+div > div > H1{
+    width: 120%;
+    margin-left: -9% ;
+}
+
+div > div{
+    width: 120%;
+    text-align:center;
+    z-index: 1;
+}
+
+.branco{
+    color: aliceblue;
+}
+
+.linha{
+    border: 2px solid #511918;
+}
+
+.content{
+    width: 800px;
+    
+}
+.contenttitle{
+    text-align: left;
+    margin-bottom: 2px;
+}
+.cards{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    max-width: 100%;
+}
+
+.itens{
+    display: flex;
+    flex-direction: column;
+    color: orange;
+    text-decoration: none;
+    gap: 5px;
+    background-color: #553326;
+}
+.itens > img{
+    height: 100px;
+    width: 100px;
+    word-wrap: break-word;
+    overflow-wrap: break-word
+}
+
+.esquisitos{
+    margin-left: 600px;
+}
+
+.texto2{
+ color: white;
+ word-break: break-all;
+ width: 950px;}
